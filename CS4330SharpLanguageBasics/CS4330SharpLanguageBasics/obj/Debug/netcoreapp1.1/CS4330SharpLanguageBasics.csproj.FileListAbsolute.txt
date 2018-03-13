@@ -1,0 +1,10 @@
+C:\Users\bisho\source\repos\CS4330SharpLanguageBasics\CS4330SharpLanguageBasics\bin\Debug\netcoreapp1.1\CS4330SharpLanguageBasics.deps.json
+C:\Users\bisho\source\repos\CS4330SharpLanguageBasics\CS4330SharpLanguageBasics\bin\Debug\netcoreapp1.1\CS4330SharpLanguageBasics.runtimeconfig.json
+C:\Users\bisho\source\repos\CS4330SharpLanguageBasics\CS4330SharpLanguageBasics\bin\Debug\netcoreapp1.1\CS4330SharpLanguageBasics.runtimeconfig.dev.json
+C:\Users\bisho\source\repos\CS4330SharpLanguageBasics\CS4330SharpLanguageBasics\bin\Debug\netcoreapp1.1\CS4330SharpLanguageBasics.dll
+C:\Users\bisho\source\repos\CS4330SharpLanguageBasics\CS4330SharpLanguageBasics\bin\Debug\netcoreapp1.1\CS4330SharpLanguageBasics.pdb
+C:\Users\bisho\source\repos\CS4330SharpLanguageBasics\CS4330SharpLanguageBasics\obj\Debug\netcoreapp1.1\CS4330SharpLanguageBasics.csprojResolveAssemblyReference.cache
+C:\Users\bisho\source\repos\CS4330SharpLanguageBasics\CS4330SharpLanguageBasics\obj\Debug\netcoreapp1.1\CS4330SharpLanguageBasics.csproj.CoreCompileInputs.cache
+C:\Users\bisho\source\repos\CS4330SharpLanguageBasics\CS4330SharpLanguageBasics\obj\Debug\netcoreapp1.1\CS4330SharpLanguageBasics.AssemblyInfo.cs
+C:\Users\bisho\source\repos\CS4330SharpLanguageBasics\CS4330SharpLanguageBasics\obj\Debug\netcoreapp1.1\CS4330SharpLanguageBasics.dll
+C:\Users\bisho\source\repos\CS4330SharpLanguageBasics\CS4330SharpLanguageBasics\obj\Debug\netcoreapp1.1\CS4330SharpLanguageBasics.pdb
